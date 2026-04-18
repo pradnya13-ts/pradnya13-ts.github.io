@@ -1,9 +1,9 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:6a0dad&height=220&section=header&text=Pradnya%20Bhakare&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Researcher%20%7C%20QMUL&descAlignY=58&descSize=18&descColor=ccccff)
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-# 👩‍💻 Pradnya Chandrakant Bhakare
-### AI & Machine Learning Researcher
 ### 🎓 MSc AI & ML in Science — Queen Mary University of London
 
 <br/>
@@ -204,6 +204,6 @@ pradnya = {
 
 <br/>
 
-![Footer](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5eca56c8/images/footer.svg)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:1a1a6e,100:0d0d2b&height=120&section=footer)
 
 </div>
