@@ -1,11 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pradnya%20Bhakare&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Researcher&descAlignY=55&descSize=20)
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-### 👩‍💻 MSc Artificial Intelligence & Machine Learning in Science
-### 🎓 Queen Mary University of London
+# 👩‍💻 Pradnya Chandrakant Bhakare
+### AI & Machine Learning Researcher
+### 🎓 MSc AI & ML in Science — Queen Mary University of London
 
 <br/>
 
@@ -163,6 +162,10 @@ pradnya = {
 
 ## 💼 Experience
 
+### 🔬 Queen Mary University of London — Research Assistant *(Current)*
+- Conducting research in **Quantum Machine Learning**
+- Exploring the intersection of quantum computing and AI/ML algorithms
+
 ### 🏢 Opportify.me — AI Developer Intern *(Remote)*
 - Built an **AI Chatbot** for automated user interaction
 - Developed a **Cross-platform Device Management System**
@@ -201,6 +204,6 @@ pradnya = {
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5eca56c8/images/footer.svg)
 
 </div>
