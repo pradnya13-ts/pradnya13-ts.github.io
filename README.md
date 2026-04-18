@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d2b,50:1a1a6e,100:6a0dad&amp;height=220&amp;section=header&amp;text=Pradnya%20Bhakare&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20Machine%20Learning%20Researcher%20%7C%20QMUL&amp;descAlignY=58&amp;descSize=18&amp;descColor=ccccff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:6a0dad&height=220&section=header&text=Pradnya%20Bhakare&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20Researcher%20%7C%20QMUL&descAlignY=58&descSize=18&descColor=ccccff" width="100%"/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-### 🎓 MSc AI & ML in Science — Queen Mary University of London
+### 🎓 MSc AI and ML in Science — Queen Mary University of London
 
 <br/>
 
@@ -204,6 +204,6 @@ pradnya = {
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a0dad,50:1a1a6e,100:0d0d2b&amp;height=120&amp;section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:1a1a6e,100:0d0d2b&height=120&section=footer" width="100%"/>
 
 </div>
